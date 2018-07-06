@@ -1,0 +1,20 @@
+{
+  "name": "blockchain_example",
+  "version": "1.0.0",
+  "description": "A basic blockchain demonstrating its simple features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "javascript",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "dateformat": "^3.0.3"
+  }
+}
